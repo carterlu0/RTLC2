@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+
+RTL-Repo/*
+!RTL-Repo/README.md
+
+archive/json/retrieval_cache/*
+!archive/json/retrieval_cache/README.md
+
+*.parquet
+*.pkl
